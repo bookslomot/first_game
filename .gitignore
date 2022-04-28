@@ -1,0 +1,9 @@
+venv
+.idea
+score.py
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+trash
+score.db
